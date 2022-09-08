@@ -1,0 +1,168 @@
+ 
+.forgot{
+    text-decoration: none;
+}
+
+.terms{
+    text-decoration: none;
+    color: #2874f0;
+}
+
+.pol{
+    text-decoration: none;
+    color: #2874f0;
+}
+
+.login{
+    text-decoration: none;
+}
+
+.re{
+    text-decoration: none;
+}
+
+.account{
+    text-decoration: none;
+}
+
+.main{
+    display: flex;
+    width: 39%;
+   margin: auto auto;
+   margin-top: 150px;
+   background-color: white;
+   font-family: 'Roboto', sans-serif;
+}
+
+.body{
+    text-align: center;
+}
+
+
+.access{
+    color: white;
+    background-color: #2874f0;
+    padding-left: 20px;
+    padding-right: 50px;
+    width: 29%;
+    font-size: 18px;
+}
+
+.info{
+    margin-left: 30px;
+}
+
+.forgot{
+    margin-left:56px;
+    display: flex;
+    margin-top: 55px;
+    color: #2874f0;
+}
+
+.login{
+    
+    padding: 5px;
+    color: white;
+
+}
+.but{
+    background-color:#fb641b ;
+    padding: 11px 80px 11px 80px;
+    width: 277px;
+    max-width: 277px;
+    border: none;
+}
+.or{
+    height: 50px;
+    color:#878787 ;
+    width: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+/* text-align: center; */
+}
+
+
+.req_but{
+    background-color:#fff ;
+    color: #2874f0;
+    padding: 11px 80px 11px 80px;
+    max-width: 260px;
+    width: 260px;
+    word-break:keep-all;
+    border: none;
+    box-shadow:1px 1px 4px #878787;
+    width: 277px;
+    max-width: 277px;
+}
+
+.account{
+    color: #2874f0;
+}
+
+.re{
+    color:#2874f0;
+    font-size: 15px;
+}
+
+.policy{
+    color: #878787;
+    font-size: 10px;
+}
+
+.pas{
+     color: #878787;
+}
+
+.info_in{
+     color: #878787;
+}
+
+.new{
+    margin-top: 51px;
+    margin-bottom: 35px;
+}
+
+.info_in1{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.pass{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.nit{
+    margin-top: 50px;
+}
+
+.ish{
+    margin-top: 35px;
+}
+
+.kul{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.overlay{
+    position:absolute;
+    height: 100vh;
+    width: 100vw;
+    background: black;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}
+.para{
+    color:#DBDBDB;
+}
+
+.are{
+    margin-right: 10px;
+}
